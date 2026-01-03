@@ -1,0 +1,29 @@
+body{
+    background:#E8F5E9;
+    font-family:'Segoe UI',sans-serif;
+}
+
+.navbar{
+    background:#2E7D32;
+}
+
+.main-card{
+    background:#fff;
+    border-radius:14px;
+    padding:25px;
+    box-shadow:0 10px 30px rgba(0,0,0,.1);
+}
+
+.btn-detail{
+    background:#03A9F4 !important;
+    color:white !important;
+}
+
+.btn-edit{
+    background:#FFC107 !important;
+}
+
+.btn-delete{
+    background:#E53935 !important;
+    color:white !important;
+}
